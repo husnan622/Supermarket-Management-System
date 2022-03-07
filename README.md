@@ -1,2 +1,2 @@
-# Supermarket-Management-System
+# Supermarket Management System
  Application of Supermarket management 
